@@ -101,7 +101,7 @@ on a mission to turn ideas into **real-world scalable applications** 🚀
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ketankumarjha2007/ketankumarjha2007/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ketankumarjha2007/ketankumarjha2007/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
