@@ -1,87 +1,61 @@
-<h1 align="center">🚀 Ketan Kumar Jha</h1>
-
+<!-- 🎯 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Frontend+Specialist;DSA+Enthusiast;Problem+Solver;Building+Scalable+Applications;Open+to+Internships" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" />
 </p>
 
-<p align="center">
-  🎓 Computer Science Student <br>
-  💻 MERN Stack Developer <br>
-  🧠 100+ DSA Problems Solved & Growing Daily <br>
-  🚀 Actively Seeking Internship Opportunities  
-</p>
+<h1 align="center">👋 Hi, I'm <span style="color:#00C2FF;">Ketan Kumar Jha</span></h1>
+<h3 align="center">MERN Stack Developer | DSA Enthusiast | Future Software Engineer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ketankumarjha2007&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;Problem+Solver;Learning+DSA+Daily;Building+Real+World+Projects" />
+</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ketankumarjha2007&label=Profile%20views&color=00C2FF&style=for-the-badge" />
+</div>
 
 ---
 
-## ⚡ About Me
+## 👋 Hey there!!
 
-* 🔥 Passionate about **building scalable, efficient & impactful real-world applications**
-* ⚛️ Strong foundation in **Frontend Development (React + Tailwind CSS)**
-* ⚙️ Actively developing **Backend skills (Node.js, Express, REST APIs)**
-* 🗄️ Experienced with **Database Management (MongoDB & MySQL)**
-* 🧠 Solved **100+ DSA problems** with focus on patterns & problem-solving thinking
-* 🏆 Participated in **Hackathons** and successfully **led a team**
-* 📈 Maintaining a strong academic record with **9.1 SGPA**
-* 💡 Committed to **clean code, consistency, and continuous improvement**
+I’m **Ketan**, a **Computer Science student**,  
+on a mission to turn ideas into **real-world scalable applications** 🚀
 
 ---
 
-## 🚀 Tech Arsenal
+## 💻 What I Do
 
-### 🧠 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
-</p>
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
-
-### 🔗 Backend Concepts
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CRUD-4CAF50?style=flat&logo=database&logoColor=white"/>
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- 🧠 **DSA Enthusiast** – Solved **100+ problems** and growing daily  
+- 🌐 **MERN Stack Developer** – Building full-stack applications  
+- ⚛️ **Frontend Specialist** – React + Tailwind focused  
+- ⚙️ **Backend Learner** – Node.js, Express, REST APIs  
+- 🧠 **Problem Solver** – Love breaking down complex logic  
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Fun Facts
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketankumarjha2007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketankumarjha2007&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketankumarjha2007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+- I debug like a detective 🕵️ (and I’m usually the culprit 😅)  
+- I enjoy turning **ideas → projects → real impact**  
+- Consistency is my biggest strength 💪  
 
 ---
 
-## 🐍 Contribution Graph
+## 🛠 Skills
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ketankumarjha2007/ketankumarjha2007/output/github-contribution-grid-snake.svg" />
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,express,mongodb&perline=8" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js&perline=6" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&perline=6" />
 </p>
 
 ---
@@ -94,45 +68,56 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 Projects
 
-### 🌱 CarbonTrack (Full Stack)
-
-* ♻️ Track daily **carbon footprint & AQI insights**
-* 📊 Interactive **real-time analytics dashboard + donation feature**
-* ⚛️ Built using **React + Node.js + MongoDB (MERN Stack)**
-* 🔥 Designed as a **practical, impact-driven real-world solution**
-
----
+### 🌱 CarbonTrack
+- ♻️ Track carbon footprint & AQI  
+- 📊 Real-time dashboard + donation system  
+- ⚛️ React + Node.js + MongoDB  
 
 ### 🌐 Portfolio Website
-
-* 🎨 Fully responsive and modern **developer portfolio**
-* ⚛️ Built using **React.js with optimized UI/UX**
-* 🚀 Showcases **projects, skills, and technical journey**
+- 🎨 Responsive personal portfolio  
+- ⚛️ Built using React.js  
 
 ---
 
 ## 🌐 Live Projects
 
-* 🚀 Portfolio: https://my-portfolio-chi-teal-60.vercel.app/
-* 🌱 CarbonTrack: https://carbon-footprint-three-psi.vercel.app/
+- 🚀 Portfolio: https://my-portfolio-chi-teal-60.vercel.app/
+- 🌱 CarbonTrack: https://carbon-footprint-three-psi.vercel.app/
 
 ---
 
-## 🎯 2026 Mission
+## 📊 GitHub Stats
 
-* 🚀 Secure a **Top Tech Internship**
-* 🧠 Solve **300+ DSA Problems with strong pattern mastery**
-* 💼 Build **Production-Level MERN Stack Applications**
-* 🌍 Start contributing to **Open Source Projects**
-* 📈 Become a **highly skilled, industry-ready Software Engineer**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketankumarjha2007&theme=tokyonight&show_icons=true" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketankumarjha2007&theme=tokyonight" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketankumarjha2007&layout=compact&theme=tokyonight" width="32%" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ketankumarjha2007/ketankumarjha2007/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Crack **Top Internship**
+- 🧠 Solve **300+ DSA Problems**
+- 💼 Build **Production MERN Apps**
+- 🌍 Contribute to Open Source  
 
 ---
 
 ## ⚡ Mindset
 
-> 💡 “I don’t rely on motivation. I rely on discipline, execution, and consistency.”
+> 💡 “Discipline beats motivation.”
 
 ---
 
