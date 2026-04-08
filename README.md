@@ -25,7 +25,7 @@ on a mission to turn ideas into **real-world scalable applications** 🚀
 
 ## 💻 What I Do
 
-- 🧠 **DSA Enthusiast** – Solved **100+ problems** and growing daily  
+- 🧠 **DSA Enthusiast** – Solved **200+ problems** and growing daily  
 - 🌐 **MERN Stack Developer** – Building full-stack applications  
 - ⚛️ **Frontend Specialist** – React + Tailwind focused  
 - ⚙️ **Backend Learner** – Node.js, Express, REST APIs  
