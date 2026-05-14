@@ -104,16 +104,6 @@ on a mission to turn ideas into **real-world scalable applications** 🚀
   <img src="https://github.com/ketankumarjha2007/ketankumarjha2007/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
-## 🎯 2026 Goals
-
-- 🚀 Crack **Top Internship**
-- 🧠 Solve **300+ DSA Problems**
-- 💼 Build **Production MERN Apps**
-- 🌍 Contribute to Open Source  
-
----
 
 ## ⚡ Mindset
 
