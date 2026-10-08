@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00C2FF;">Ketan Kumar Jha</span></h1>
-<h3 align="center">MERN Stack Developer | DSA Enthusiast | Future Software Engineer</h3>
+<h3 align="center">MERN Stack Developer | Competitive Programming | Future Software Engineer</h3>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+Specialist;Problem+Solver;Learning+DSA+Daily;Building+Real+World+Projects" />
@@ -25,7 +25,7 @@ on a mission to turn ideas into **real-world scalable applications** 🚀
 
 ## 💻 What I Do
 
-- 🧠 **DSA Enthusiast** – Solved **200+ problems** and growing daily  
+- 🧠 **DSA Enthusiast** – Solved **500+ problems** and growing daily  
 - 🌐 **MERN Stack Developer** – Building full-stack applications  
 - ⚛️ **Frontend Specialist** – React + Tailwind focused  
 - ⚙️ **Backend Learner** – Node.js, Express, REST APIs  
